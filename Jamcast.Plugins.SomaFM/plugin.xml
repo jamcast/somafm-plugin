@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<plugin xmlns="http://sdstechnologies.com/jamcast/plugin/manifest/2.0">
+	<providerID>e3a42b03-dde3-45e7-9d7b-54154941a247</providerID>
+	<name>SomaFM</name>
+	<description>Over 30 unique channels of listener-supported, commercial-free, underground/alternative radio broadcasting from San Francisco. All music hand-picked by SomaFM's award-winning DJs and music directors.</description>
+	<publisherName>Jamcast, Inc.</publisherName>
+	<publisherUrl>http://getjamcast.com</publisherUrl>
+	<iconResourceName>Jamcast.Plugins.SomaFM.icon.png</iconResourceName>
+	<assemblyFileName>Jamcast.Plugins.SomaFM.dll</assemblyFileName>	
+</plugin>
